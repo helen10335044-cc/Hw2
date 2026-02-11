@@ -13,4 +13,4 @@ uydbvfkjgflkdjgk<br>
 [yahoo](http://tw.yahoo.com)<br>
 [Markdown](https://markdown.tw/)<br>
 
-![哭哭娃照片](C:\Users\student\Desktop\照片raw=true)
+![哭哭娃照片](imganes.png?raw=true)
